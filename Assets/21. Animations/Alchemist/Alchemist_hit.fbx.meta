@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2d150197793860345a63024087fb1b79
+guid: 33d1ba7675e3d3445b771eb106168b15
 ModelImporter:
   serializedVersion: 20300
   internalIDToNameTable: []
@@ -32,18 +32,18 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Armature_alchemist|ArmatureAction
-      takeName: Armature_alchemist|ArmatureAction
-      internalID: 7828729258065028809
+      name: Alchemist_hit
+      takeName: Armature_alchemist|Armature_alchemistAction
+      internalID: 7324038683658421994
       firstFrame: 0
-      lastFrame: 27
+      lastFrame: 14
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
