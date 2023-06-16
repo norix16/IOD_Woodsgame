@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ffc6f90e2d95c8143914e4c1539b30d6
+guid: 95c1dd7c4b0d33c40944c92860dcccc4
 ModelImporter:
   serializedVersion: 20300
   internalIDToNameTable: []
@@ -32,11 +32,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Armature|ArmatureAction
+      name: Woodskid_Idle
       takeName: Armature|ArmatureAction
       internalID: 4781951162920444690
       firstFrame: 0
-      lastFrame: 25
+      lastFrame: 50
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -523,13 +523,13 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: woods_kid_tpose(Clone)
+    - name: Woodskid(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: Armature
-      parentName: woods_kid_tpose(Clone)
+      parentName: Woodskid(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071067, y: -0.000000030908616, z: 0.000000030908623, w: 0.7071068}
       scale: {x: 1, y: 1, z: 1}
@@ -1374,7 +1374,7 @@ ModelImporter:
       rotation: {x: 0.7071068, y: -1.5805669e-10, z: 1.5805288e-10, w: 0.7071068}
       scale: {x: 1, y: 0.9999999, z: 0.9999999}
     - name: body.001
-      parentName: woods_kid_tpose(Clone)
+      parentName: Woodskid(Clone)
       position: {x: -2.235174e-11, y: 0.0013865934, z: 3.5107448e-10}
       rotation: {x: -0.7071067, y: -0.000000030974473, z: 0.00000003084277, w: 0.7071068}
       scale: {x: 0.99999976, y: 1, z: 1}

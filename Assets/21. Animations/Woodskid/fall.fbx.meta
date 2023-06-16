@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f215e2cfcbec25b469c05c6cef2d468a
+guid: e2c3222bbd8955f4ab99fc7a1ad81817
 ModelImporter:
   serializedVersion: 20300
   internalIDToNameTable: []
@@ -30,7 +30,36 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Woodskid_fall
+      takeName: Armature|ArmatureAction
+      internalID: 4781951162920444690
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -494,13 +523,13 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: woods_kid_tpose(Clone)
+    - name: Woodskid(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: Armature
-      parentName: woods_kid_tpose(Clone)
+      parentName: Woodskid(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071067, y: -0.000000030908616, z: 0.000000030908623, w: 0.7071068}
       scale: {x: 1, y: 1, z: 1}
@@ -1345,7 +1374,7 @@ ModelImporter:
       rotation: {x: 0.7071068, y: -1.5805669e-10, z: 1.5805288e-10, w: 0.7071068}
       scale: {x: 1, y: 0.9999999, z: 0.9999999}
     - name: body.001
-      parentName: woods_kid_tpose(Clone)
+      parentName: Woodskid(Clone)
       position: {x: -2.235174e-11, y: 0.0013865934, z: 3.5107448e-10}
       rotation: {x: -0.7071067, y: -0.000000030974473, z: 0.00000003084277, w: 0.7071068}
       scale: {x: 0.99999976, y: 1, z: 1}
