@@ -9208,6 +9208,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8213399339184195603, guid: a4c51b8365c6be248a0d6d9a36b59e0f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0241
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -645670194977672958, guid: a4c51b8365c6be248a0d6d9a36b59e0f, type: 3}
     - {fileID: 4233768471148530130, guid: a4c51b8365c6be248a0d6d9a36b59e0f, type: 3}
