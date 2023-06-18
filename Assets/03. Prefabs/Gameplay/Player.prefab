@@ -153,7 +153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 388757bae49ee9441b738b309b393b8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _returnToPosition: {x: 12, y: 5, z: 6}
+  _returnToPosition: {x: 13, y: 5, z: 6}
 --- !u!65 &-8866788824090167601
 BoxCollider:
   m_ObjectHideFlags: 0
